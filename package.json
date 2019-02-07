@@ -1,0 +1,14 @@
+{
+  "name": "Positron",
+  "version": "0.0.1",
+  "description": "An electron web browser: a full-circle flex",
+  "main": "main.js",
+  "author": "William J Byatt",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
